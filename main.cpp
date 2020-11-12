@@ -24,7 +24,7 @@ using namespace std;
 #define dim 9
 
 //minimum distance and its square
-#define mind 0.525
+#define mind 0.55
 double md2=mind*mind;
 
 //run controls - number of runs, mating events per run and rerporting interval
